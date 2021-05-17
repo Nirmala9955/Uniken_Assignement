@@ -3,7 +3,7 @@
 	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
 	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
 	id="WebApp_ID" version="4.0">
-	<display-name>CorporateInformationApp</display-name>
+	<display-name>CorporateInformationCombineView</display-name>
 	<display-name>Archetype Created Web Application</display-name>
 	
 	<context-param>
